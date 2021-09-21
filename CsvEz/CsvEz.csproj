@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Fraser Orr</Authors>
+    <Company>Engaging Gear</Company>
+    <Description>A library to import and export csv files</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/EngagingGear/CsvEz</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
